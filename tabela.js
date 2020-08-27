@@ -1,2 +1,2 @@
 /* ----------- É um comentário teste ----------- */
-let grupo = 6;
+let grupo = 6
